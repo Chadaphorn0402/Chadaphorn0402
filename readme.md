@@ -45,7 +45,7 @@
   </a>
 
  <a href="#">
-    <img src="/https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" alt="python111" style="vertical-align:top; margin:6px 4px">
+    <img src="/https://images.app.goo.gl/rghzUkFQR2Bxw7x6A" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
 
    <a href="#">
