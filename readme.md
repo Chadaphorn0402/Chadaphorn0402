@@ -45,7 +45,7 @@
   </a>
 
  <a href="#">
-    <img src="https://python-thailand.github.io/intro/logo.html" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="/https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" alt="python111" style="vertical-align:top; margin:6px 4px">
   </a> 
 
    <a href="#">
@@ -58,7 +58,7 @@
 <p align="left">
 
 <a href="#">
-    <img src="https://www.techtalkthai.com/top-three-mistakes-in-secure-software-development/" alt="technology development" style="vertical-align:top; margin:6px 4px">
+    <img src="/https://www.techtalkthai.com/top-three-mistakes-in-secure-software-development/" alt="technology development" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
