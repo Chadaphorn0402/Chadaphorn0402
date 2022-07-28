@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="#">
-    <img src="Tangmo.jpg" alt="My World" width="200" height="200">
+    <img src="images/Tangmo.jpg" alt="My World" width="200" height="200">
   </a>  
 <img src="Tangmo.jpg" alt="My World" width="200" height="200">
 
