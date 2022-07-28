@@ -1,7 +1,8 @@
-### Hi there 👋 Nice to see u.
+### Hi there 👋 Nice to see u. 💕
 
-- 😄 My name is: Chadaphorn Thongphutorn
-- ⚡ Student id: 63361221
+- 🌻 My name is: Chadaphorn Thongphutorn 
+- 🍉 My nickname is : Tangmo
+- ❤️ Student id: 63361221
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 #### Career interests in the future :
@@ -66,7 +67,7 @@
   </a> 
 </p>
 
-## Interested in computer engineering
+## Interested in computer engineering 
   * website writing 
   * develop web
   * app design programming
