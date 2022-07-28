@@ -2,9 +2,10 @@
 
 <p align="left">
 <a href="#">
-    <img src="images/Tangmo.jpg" alt="My World" width="200" height="200">
+    <img src="svg/Tangmo.svg" alt="My World" style="vertical-align:top; margin:6px 4px">
   </a>  
-<img src="Tangmo.jpg" alt="My World" width="200" height="200">
+
+</p>
 
 - 🌻 My name is: Chadaphorn Thongphutorn 
 - 🍉 My nickname is : Tangmo
