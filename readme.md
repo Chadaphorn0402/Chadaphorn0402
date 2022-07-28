@@ -1,8 +1,8 @@
-### Hi there 👋 Nice to see u. 💕
+### Welcome to my world 💕
 
 <p align="left">
 <a href="#">
-    <img src="svg/Tangmo.svg" alt="My World" style="vertical-align:top; margin:6px 4px" width="200" height="280">
+    <img src="svg/TM.svg" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 </p>
