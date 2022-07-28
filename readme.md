@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="#">
-    <img src="svg/Tangmo.svg" alt="My World" style="vertical-align:top; margin:6px 4px" width="200" height="300">
+    <img src="svg/Tangmo.svg" alt="My World" style="vertical-align:top; margin:6px 4px" width="200" height="280">
   </a>  
 
 </p>
@@ -10,14 +10,14 @@
 - 🌻 My name is: Chadaphorn Thongphutorn 
 - 🍉 My nickname is : Tangmo
 - ❤️ Student id: 63361221
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 👩🏻‍💻 I'm currently studying on Faculty of Engineering.
 
-### Career interests in the future :
+### 💼 Career interests in the future :
  * Developer
  * Computer Programmer
  * Software Tester
 
-### Interested in computer engineering 
+### 🎓 Interested in computer engineering 
   * website writing 
   * develop web
   * app design programming
