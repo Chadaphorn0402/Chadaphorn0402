@@ -13,11 +13,11 @@
 ### Frameworks 
 <p align="left">
 <a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 <a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 <a href="#">
@@ -45,7 +45,7 @@
   </a>
 
  <a href="#">
-    <img src="/https://images.app.goo.gl/rghzUkFQR2Bxw7x6A" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/powershell.svg"  alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
 
    <a href="#">
@@ -54,18 +54,19 @@
 
 </P>
 
+## Contact
+<p align="left">
+
+<a href="#">
+    <img src="svg/social/instagram.svg" alt="_chada.04" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/social/gmail.svg" alt="chadaphornt63@nu.ac.th" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+
 ## Interested in computer engineering
-<p align="left">
-
-<a href="#">
-    <img src="/https://www.techtalkthai.com/top-three-mistakes-in-secure-software-development/" alt="technology development" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
-
-## Devices / Manufacturers
-<p align="left">
-
-<a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
+  * website writing 
+  * develop web
+  * app design programming
