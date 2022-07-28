@@ -1,10 +1,14 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Chadaphorn Thongphutorn
+- ⚡ Student id: 63361221
 - 🔭 I'm currently studying on Faculty of Engineering.
 
-## Developer Tech
+#### Career interests in the future :
+ * Developer
+ * Computer Programmer
+ * Software Tester
+ 
 
 ### Frameworks 
 <p align="left">
@@ -41,16 +45,25 @@
   </a>
 
  <a href="#">
+    <img src="https://python-thailand.github.io/intro/logo.html" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+   <a href="#">
     <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
 
+## Interested in computer engineering
+<p align="left">
+
+<a href="#">
+    <img src="https://www.techtalkthai.com/top-three-mistakes-in-secure-software-development/" alt="technology development" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
 ## Devices / Manufacturers
 <p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
 
 <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
