@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="#">
-    <img src="svg/Tangmo.svg" alt="My World" style="vertical-align:top; margin:6px 4px" width="200" height="400">
+    <img src="svg/Tangmo.svg" alt="My World" style="vertical-align:top; margin:6px 4px" width="200" height="300">
   </a>  
 
 </p>
